@@ -11,10 +11,6 @@ Once you join a room, You are redirected to the editor page. The editor page pro
 **Python Code Execution**\
 CodeThread offers a convenient Python run button within the editor page. If the code you've written is in Python, you can execute it directly in the browser. Additionally, you have the option to provide input for your code to see the output.
 
-**#DEMO**
-<img width="1440" alt="Screenshot 2023-07-02 at 5 52 53 PM" src="">
-
-<img width="1440" alt="Screenshot 2023-07-02 at 5 54 33 PM" src="">
 
 **#How to run**\
 =>Download Frontend code from this git repo and Backend code 
